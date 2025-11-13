@@ -1,7 +1,7 @@
 <?php
 require 'config/config.php';
 
-// Query alle activiteiten uit database
+
 $stmt = $pdo->query("SELECT * FROM activiteit");
 $activiteiten = $stmt->fetchAll();
 ?>

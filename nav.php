@@ -9,7 +9,7 @@
 <body>
     <nav>
         <ul>
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php?pagina=home">Home</a></li>
             <li><a href="index.php?pagina=activiteiten">Activiteiten</a></li>
             <li><a href="index.php?pagina=studenten">Studenten</a></li>
             <li><a href="index.php?pagina=foto's">Foto's</a></li>
