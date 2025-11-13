@@ -1,3 +1,16 @@
+<?php 
+
+$pagina=$_GET["pagina"];
+
+if (isset($_GET["pagina"])) 
+  {
+
+  } 
+else {
+    $pagina = "home";
+}
+
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -10,7 +23,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php include 'nav.php'; ?>
+    
+    <?php include 'nav.php'; ?> 
     
     
 

@@ -7,16 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- Navigation -->
     <nav>
         <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="activiteit.php">Activiteiten</a></li>
-            <li><a href="student.php">Studenten</a></li>
-            <li><a href="foto.php">Foto's</a></li>
-            <li><a href="score.php">Score</a></li>
-            <li><a href="reactie.php">Reactie</a></li>
-            <li><a href="login.php">Login</a></li>
+            <li><a href="index.php?pagina=activiteiten">Activiteiten</a></li>
+            <li><a href="index.php?pagina=studenten">Studenten</a></li>
+            <li><a href="index.php?pagina=foto's">Foto's</a></li>
+            <li><a href="index.php?pagina=score">Score</a></li>
+            <li><a href="index.php?pagina=reactie">Reactie</a></li>
+            <li><a href="index.php?pagina=login">Login</a></li>
         </ul>
     </nav>
 
