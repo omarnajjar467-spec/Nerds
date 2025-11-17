@@ -26,14 +26,11 @@ else {
 <body>
     
     <?php include 'nav.php'; ?> 
-    <?php 
     
-    switch($pagina){
-        case""
-            include
-        break;
     
-    ?>
+
+    
+
     
     
 
